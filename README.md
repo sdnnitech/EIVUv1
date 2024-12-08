@@ -69,4 +69,4 @@ $ ./statrun.sh
 - D. Takeya, R. Kawashima, H. Nakayama, T. Hayashi, and H. Matsuo, "Comprehensive Evaluation to Determine Cache Action in vhost-user", IEICE Technical Report, vol. 122, no. 96, ICM2022-18, pp. 42-47, 2022 (in Japanese).
   
 ### Awards
-- D. Takeya, R. Kawashima, H. Nakayama, T. Hayashi, and H. Matsuo, "ICM Best Paper Award", IEICE, 2022.
+- D. Takeya, R. Kawashima, H. Nakayama, T. Hayashi, and H. Matsuo, "ICM Best Paper Award", IEICE Tech. Committee on ICM, 2022.
