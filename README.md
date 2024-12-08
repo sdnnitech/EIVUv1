@@ -62,3 +62,11 @@ $ ./statrun.sh
 - Design: https://sdnnitech.github.io/EIVU/eval/evaluation.html
 
 - Result: https://sdnnitech.github.io/EIVU/eval/results.html
+
+## Academic Results
+### Papers
+- D. Takeya, R. Kawashima, H. Nakayama, T. Hayashi, and H. Matsuo, "Understanding Roadblocks in Virtual Network I/O: A Comprehensive Analysis of CPU Cache Usage", Proc. IEEE 9th International Conference on Network Softwarization (NetSoft), pp. 1-6, 2023.
+- D. Takeya, R. Kawashima, H. Nakayama, T. Hayashi, and H. Matsuo, "Comprehensive Evaluation to Determine Cache Action in vhost-user", IEICE Technical Report, vol. 122, no. 96, ICM2022-18, pp. 42-47, 2022 (in Japanese).
+  
+### Awards
+- D. Takeya, R. Kawashima, H. Nakayama, T. Hayashi, and H. Matsuo, "ICM Best Paper Award", IEICE, 2022.
