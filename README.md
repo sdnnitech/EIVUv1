@@ -59,9 +59,9 @@ $ ./statrun.sh
 
 ### Evaluation
 
-- Design: https://sdnnitech.github.io/EIVU/eval/evaluation.html
+- Design: https://sdnnitech.github.io/EIVUv1/eval/evaluation.html
 
-- Result: https://sdnnitech.github.io/EIVU/eval/results.html
+- Result: https://sdnnitech.github.io/EIVUv1/eval/results.html
 
 ## Academic Results
 ### Papers
